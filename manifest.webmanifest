@@ -1,0 +1,25 @@
+{
+  "name": "Wild Souls United Motorcycle Club",
+  "short_name": "WSUMC",
+  "description": "Rider dashboard, membership and club management for Wild Souls United MC.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0b0d",
+  "theme_color": "#ff5c11",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "640x640",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "640x640",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
