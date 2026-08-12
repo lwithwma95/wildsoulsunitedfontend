@@ -1,7 +1,7 @@
 {
-  "name": "Wild Souls United Motorcycle Club",
-  "short_name": "WSUMC",
-  "description": "Rider dashboard, membership and club management for Wild Souls United MC.",
+  "name": "Wild Souls United Motorcycle Association",
+  "short_name": "WSUMA",
+  "description": "Rider dashboard, membership and club management for Wild Souls United Motorcycle Association.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
